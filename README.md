@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Robel Gulima - [Github](https://github.com/robel625) 
-Derrick Owusu
+[Github](https://github.com/robel625) Robel Gulima 
+ Derrick Owusu
 
 Second part of Airbnb: Joann Vuong
 ## License
